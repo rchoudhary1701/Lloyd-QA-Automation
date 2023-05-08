@@ -16,5 +16,5 @@ Feature: Location Finder
       | Sheet1    | 5         |
       | Sheet1    | 6         |
       | Sheet1    | 7         |
-
-
+      | Sheet1    | 8         |
+      | Sheet1    | 9         |
